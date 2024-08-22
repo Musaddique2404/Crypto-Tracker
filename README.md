@@ -1,4 +1,4 @@
-## Crypto currency price trackiong app
+## Crypto currency price tracking app
 
 
 🔍 Key Features:
